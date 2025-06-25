@@ -1,9 +1,12 @@
-/* 2. Write a program to display Output following pattern using Placeholders
+/*
+2. Write a program to display Output following pattern using Placeholders
 1
 22
 333
 4444
-55555 */
+55555
+*/
+
 fn main() {
     println!("{}",1);
     println!("{0}{0}",2);
