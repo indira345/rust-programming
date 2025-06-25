@@ -3,8 +3,6 @@
 22
 333
 4444
-Department of Computer Science and Engineering 2025-26
-VISHNU INSTITUTE OF TECHNOLOGY Page 6
 55555 */
 fn main() {
     println!("{}",1);
